@@ -1,0 +1,60 @@
+PODS:
+  - Alamofire (5.10.1)
+  - CocoaLumberjack/Core (3.8.5)
+  - CocoaLumberjack/Swift (3.8.5):
+    - CocoaLumberjack/Core
+  - EmptyDataSet-Swift (5.0.0)
+  - FDFullscreenPopGesture (1.1)
+  - HandyJSON (5.0.2)
+  - Kingfisher (7.9.1)
+  - MJRefresh (3.7.5)
+  - Moya (15.0.0):
+    - Moya/Core (= 15.0.0)
+  - Moya/Core (15.0.0):
+    - Alamofire (~> 5.0)
+  - Reachability (3.2)
+  - SwiftyJSON (4.3.0)
+  - Toast-Swift (5.0.1)
+
+DEPENDENCIES:
+  - CocoaLumberjack/Swift
+  - EmptyDataSet-Swift (= 5.0.0)
+  - FDFullscreenPopGesture (= 1.1)
+  - HandyJSON (= 5.0.2)
+  - Kingfisher (= 7.9.1)
+  - MJRefresh (= 3.7.5)
+  - Moya (= 15.0.0)
+  - Reachability (= 3.2)
+  - SwiftyJSON (= 4.3.0)
+  - Toast-Swift (= 5.0.1)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - CocoaLumberjack
+    - EmptyDataSet-Swift
+    - FDFullscreenPopGesture
+    - HandyJSON
+    - Kingfisher
+    - MJRefresh
+    - Moya
+    - Reachability
+    - SwiftyJSON
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  Alamofire: 840d2a1ad82355b536ec6ba5f97e5bfa54600ca3
+  CocoaLumberjack: 6a459bc897d6d80bd1b8c78482ec7ad05dffc3f0
+  EmptyDataSet-Swift: eb382c0c87a2d9c678077385a595cec52da38171
+  FDFullscreenPopGesture: a8a620179e3d9c40e8e00256dcee1c1a27c6d0f0
+  HandyJSON: 9e4e236f5d2dbefad5155a77417bbea438201c03
+  Kingfisher: 1d14e9f59cbe19389f591c929000332bf70efd32
+  MJRefresh: fdf5e979eb406a0341468932d1dfc8b7f9fce961
+  Moya: 138f0573e53411fb3dc17016add0b748dfbd78ee
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+
+PODFILE CHECKSUM: 6900677835a73446ae52ca4ba638a61d3772a3c5
+
+COCOAPODS: 1.16.2
