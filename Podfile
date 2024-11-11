@@ -16,6 +16,7 @@ def CommonPods
   pod 'EmptyDataSet-Swift', '5.0.0'
   pod 'FDFullscreenPopGesture', '1.1'
   pod 'Reachability', '3.2'
+  pod 'SnapKit', '5.6.0'
 end
 
 target 'ApplicationProject' do
